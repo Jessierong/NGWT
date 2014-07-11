@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--top menu-->
+<translations>
+	<translation id="menu-About">
+		<en>About NGT</en>
+		<cns>NGT简介</cns>
+		<cnt>NGT簡介</cns>
+	</translation>
+	<translation id="menu-Products">
+		<en>Products</en>
+		<cns>产品信息</cns>
+		<cnt>產品信息</cnt>
+	</translation>
+	<translation id="menu-Contact">
+		<en>Contact</en>
+		<cns>联系我们</cns>
+		<cnt>聯系我們</cnt>
+	</translation>
+	<translation id="menu-Languages">
+		<en>Languages</en>
+		<cns>语言替换</cns>
+		<cnt>語言替換</cnt>
+	</translation>
+<!--page1/0-->
+	<translation id="title-AboutCompany">
+		<en>About Company</en>
+		<cns>公司介绍</cns>
+		<cnt>公司介紹</cnt>
+	</translation>
+	<translation id="text-AboutCompany">
+		<en>
+			&lt;p&gt;Next Generation Technologies (NGT) founded in Year 2003 at Singapore with the objective to provide the best OPEN SOURCE technology to hospitality industry. &lt;/p&gt;
+			&lt;p&gt;Year 2004, NGT has extended direct offices in Hong Kong and Shanghai to cater for the growth of Hospitality market in North Asia. &lt;/p&gt;
+		</en>
+		<cns>
+			&lt;p&gt;NGT于2003年成立于新加坡，我们的目标是给酒店业提供最好的开源技术。&lt;/p&gt;
+			&lt;p&gt;2004年初，NGT扩展了规模，在香港及上海成立了办事处，为迎合酒店市场在北亚地区的迅速发展。&lt;/p&gt;
+		</cns>
+		<cnt>
+			&lt;p&gt;NGT於2003年成立於新加坡，我們的目標是給酒店業提供最好的開源技術。&lt;/p&gt;
+			&lt;p&gt;2004年初，NGT擴展了規模，在香港及上海成立了辦事處，為迎合酒店市場在北亞地區的迅速發展。&lt;/p&gt;
+		</cnt>
+	</translation>
+	<translation id="title-DirectPresence">
+		<en>Direct Presence</en>
+		<cns>主要市场</cns>
+		<cnt>主要市場</cnt>
+	</translation>
+	<translation id="title-ChannelPartner">
+		<en>Channel Partner</en>
+		<cns>渠道伙伴</cns>
+		<cnt>渠道夥伴</cnt>
+	</translation>
+	<translation id="title-PrestigeCustomers">
+		<en>Our Prestige’s Customers</en>
+		<cns>我们尊贵的客户</cns>
+		<cnt>我們尊貴的客戶</cnt>
+	</translation>
+	<translation id="btn-ViewLogos">
+		<en>View Logos</en>
+		<cns>品牌展示</cns>
+		<cnt>品牌展示</cnt>
+	</translation>
+<!--page1/1-2-->
+	<translation id="title-NGTTechnology-1">
+		<en>NGT Technology</en>
+		<cns>NGT技术</cns>
+		<cnt>NGT技術</cnt>
+	</translation>
+	<translation id="text-NGTTechnology-1">
+		<en>
+			&lt;h2&gt;Introduction&lt;/h2&gt;
+			&lt;p&gt;NGT CLOUD Technology allows you to have technology allows you to have a flexible and scalable hardware infrastructure for software deployment and managing your contents more effectively. &lt;/p&gt;
+			&lt;p&gt;NGT CLOUD is much more than a hard drive or hosting in the sky. It’s the effortless way to access just about everything on all your devices. NGT CLOUD stores your content so it’s always accessible from your portable devices on different platform includes Mac, IOS, Android, Windows, Linux and etc. It gives you instant access to your apps, booking, operation and more. And it keeps your system and information up to date across all your devices. No syncing required. No management required. In fact, no anything required. WE does it all for you. &lt;/p&gt;
+		</en>
+		<cns>
+			&lt;h2&gt;简介&lt;/h2&gt;
+			&lt;p&gt;NGT云计算可以让你更灵活、有效地管理你的内容。&lt;/p&gt;
+			&lt;p&gt;NGT云计算远方便于硬盘托管形式。这是一种在您的设备上毫不费力地访问任何东西的方式。NGT云计算存储您的内容，以便它可以从您不同平台的便携式设备上访问，例如苹果、IOS、安卓、Window及Linux等。&lt;/p&gt;
+		</cns>
+		<cnt>
+			&lt;h2&gt;簡介&lt;/h2&gt;
+			&lt;p&gt;NGT雲計算可以讓妳更靈活、有效地管理妳的內容。&lt;/p&gt;
+			&lt;p&gt;NGT雲計算遠方便於硬盤托管形式。這是壹種在您的設備上毫不費力地訪問任何東西的方式。NGT雲計算存儲您的內容，以便它可以從您不同平臺的便攜式設備上訪問，例如蘋果、IOS、安卓、Window及Linux等。&lt;/p&gt;
+		</cnt>
+	</translation>
+	<translation id="title-NGTTechnology-2">
+		<en>NGT Technology</en>
+		<cns>NGT技术</cns>
+		<cnt>NGT技術</cnt>
+	</translation>
+	<translation id="text-NGTTechnology-2">
+		<en>
+			&lt;p&gt;Developed on Linux open platform&lt;/p&gt;
+			&lt;p&gt;No client software required&lt;/p&gt;
+			&lt;p&gt;Web 2.0 ASP based.&lt;/p&gt;
+			&lt;p&gt;Cloud Computing.&lt;/p&gt;
+			&lt;p&gt;Strong security using SSL and CA authentication.&lt;/p&gt;
+			&lt;p&gt;Supports multi-languages&lt;/p&gt;
+			&lt;p&gt;User Friendly Interface&lt;/p&gt;
+			&lt;p&gt;Multiple platforms (PC, Apple, Linux)&lt;/p&gt;
+			&lt;p&gt;Portable devices support (iPad, etc)&lt;/p&gt;
+			&lt;p&gt;Supports leading POS system&lt;/p&gt;
+			&lt;p&gt;Strong local and online support&lt;/p&gt;
+		</en>
+		<cns>
+			&lt;p&gt;开发基于Linux的平台之上&lt;/p&gt;
+			&lt;p&gt;无客户端软件需要&lt;/p&gt;
+			&lt;p&gt;互联网2.0 ASP标准&lt;/p&gt; 
+			&lt;p&gt;云计算&lt;/p&gt;
+			&lt;p&gt;使用SSL以及CA鉴定严格保障网络安全&lt;/p&gt;
+			&lt;p&gt;支持多国语言&lt;/p&gt;
+			&lt;p&gt;用户友好(基于IE和火狐）&lt;/p&gt;
+			&lt;p&gt;支持多个平台（PC机，苹果机，Linux系统）&lt;/p&gt;
+			&lt;p&gt;支持便携式的设备（如iPad等）&lt;/p&gt;
+			&lt;p&gt;支持多家POS系统接口&lt;/p&gt;
+			&lt;p&gt;本地和网上用户支持&lt;/p&gt;
+		</cns>
+		<cnt>
+			&lt;p&gt;開發基於Linux的平臺之上&lt;/p&gt;
+			&lt;p&gt;無客戶端軟件需要&lt;/p&gt;
+			&lt;p&gt;互聯網2.0 ASP標準&lt;/p&gt; 
+			&lt;p&gt;雲計算&lt;/p&gt;
+			&lt;p&gt;使用SSL以及CA鑒定嚴格保障網絡安全&lt;/p&gt;
+			&lt;p&gt;支持多國語言&lt;/p&gt;
+			&lt;p&gt;用戶友好(基於IE和火狐）&lt;/p&gt;
+			&lt;p&gt;支持多個平臺（PC機，蘋果機，Linux系統）&lt;/p&gt;
+			&lt;p&gt;支持便攜式的設備（如iPad等）&lt;/p&gt;
+			&lt;p&gt;支持多家POS系統接口&lt;/p&gt;
+			&lt;p&gt;本地和網上用戶支持&lt;/p&gt;
+		</cnt>
+	</translation> 	 
+<!--page2/0-->
+	<translation id="title-Solutions">
+		<en>&lt;b&gt;NGT&lt;/b&gt; Solutions Offering</en>
+		<cns>&lt;b&gt;NGT&lt;/b&gt;解决方案</cns>
+		<cnt>&lt;b&gt;NGT&lt;/b&gt;解決方案</cnt>
+	</translation>
+	<translation id="sub-Display">
+		<en> – Digital Signage</en>
+		<cns> – 多媒体显示系统</cns>
+		<cnt> – 多媒體顯示系統</cnt>
+	</translation>
+	<translation id="sub-kiosk">
+		<en> – Hotel & Club Concierge and Internet Kiosk</en>
+		<cns> – 酒店，会所礼宾服务与互联网浏览</cns>
+		<cnt> – 酒店，會所禮賓服務與互聯網瀏覽</cnt>
+	</translation>
+	<translation id="sub-Club">
+		<en> – Club and Membership Management System</en>
+		<cns> – 会所及会员管理系统</cns>
+		<cnt> – 會所及會員管理系統</cnt>
+	</translation>
+	<translation id="sub-TMS">
+		<en> – Restaurant reservation & Table Management</en>
+		<cns> – 餐厅预定</cns>
+		<cnt> – 餐廳預定</cnt>
+	</translation>	
+	<translation id="sub-FR">
+		<en> – Online booking & schedule management</en>
+		<cns> – 在线设施预定、班级预定、日程管理、资源分配及规划</cns>
+		<cnt> – 在線設施預定、班級預定、日程管理、資源分配及規劃</cnt>
+	</translation>
+	<translation id="sub-GRM">
+		<en> – Guest Relationship and Loyalty Management System</en>
+		<cns> – 会员关系管理及忠诚度管理系统</cns>
+		<cnt> – 會員關系管理及忠誠度管理系統</cnt>
+	</translation>		
+<!--page2/1-6-->
+	<translation id="text-Display">
+		<en>		
+			&lt;h2&gt;Products Information&lt;/h2&gt;
+			&lt;p&gt;&lt;b&gt;iDisplay&lt;/b&gt; is a web based digital signage system that allows user to delivery the right information (text, images, video) to the right place at the right time. &lt;/p&gt;
+			&lt;p&gt;It provides information display, booking facilities information, event information, online news/weather updates. &lt;/p&gt;
+		</en>
+		<cns>
+			&lt;h2&gt;产品信息&lt;/h2&gt;
+			&lt;p&gt;&lt;b&gt;iDisplay&lt;/b&gt;是采用网页方式操作的数字多媒体显示系统，用户可以在特定的时间提供正确的信息（文字，图片，视频）到指定的屏幕。&lt;/p&gt;
+			&lt;p&gt;与传统的静态的信息相比，&lt;b&gt;iDisplay&lt;/b&gt;系统播放的内容可以更容易地变换，也可以播放动画和视频，并且可以根据环境和对象来设定内容的播放日程安排，还可以通过设置使动画和视频自动交互替换播放。&lt;/p&gt;
+		</cns>
+		<cnt>
+			&lt;h2&gt;產品信息&lt;/h2&gt;
+			&lt;p&gt;&lt;b&gt;iDisplay&lt;/b&gt;是采用網頁方式操作的數字多媒體顯示系統，用戶可以在特定的時間提供正確的信息（文字，圖片，視頻）到指定的屏幕。&lt;/p&gt;
+			&lt;p&gt;與傳統的靜態的信息相比，&lt;b&gt;iDisplay&lt;/b&gt;系統播放的內容可以更容易地變換，也可以播放動畫和視頻，並且可以根據環境和對象來設定內容的播放日程安排，還可以通過設置使動畫和視頻自動交互替換播放。&lt;/p&gt;
+		</cnt>
+	</translation>
+	<translation id="text-kiosk">
+		<en>		
+			&lt;h2&gt;Products Information&lt;/h2&gt;
+			&lt;p&gt;&lt;b&gt;ikiosk&lt;/b&gt; a next generation web based eConcierge, information and promotion  broadcaster and internet access terminal to provide the ease of your guest to retrieve the information required. Furthermore, it provide the internet accessibility whenever they need to access. &lt;/p&gt;
+			&lt;p&gt;It act as a application to provides your guest with free access to hotel, restaurant and tour information. In additional, it also serve as a real time information broadcaster to provides real time weather, news, stock market updates, Airline flight schedule and many more via RSS &lt;/p&gt;
+		</en>
+		<cns>
+			&lt;h2&gt;产品信息&lt;/h2&gt;
+			&lt;p&gt;&lt;b&gt;ikiosk&lt;/b&gt;提供互联网接入及信息亭允许访客/会员查看酒店促销信息、做紧急文案处理、查看实时天气预报及旅游资讯。&lt;/p&gt;
+		</cns>
+		<cnt>
+			&lt;h2&gt;產品信息&lt;/h2&gt;
+			&lt;p&gt;&lt;b&gt;ikiosk&lt;/b&gt;提供互聯網接入及信息亭允許訪客/會員查看酒店促銷信息、做緊急文案處理、查看實時天氣預報及旅遊資訊。&lt;/p&gt;
+		</cnt>
+	</translation>	
+	<translation id="text-Club">
+		<en>		
+			&lt;h2&gt;Products Information&lt;/h2&gt;
+			&lt;p&gt;&lt;b&gt;iClub&lt;/b&gt; is one of the leading complete web based Club management system in the market. iClub  provides extensive membership management, AR, facilities booking,  club POS for Club house, residential club, Spa, Golf house, etc. &lt;/p&gt;
+			&lt;h2&gt;Prepaid Card Module&lt;/h2&gt;
+			&lt;p&gt;Prepaid Card Module  Provides prepaid card management. The F&amp;B fees can be posted by POS if use prepaid card. &lt;/p&gt;
+			&lt;h2&gt;POS Interface&lt;/h2&gt;
+			&lt;p&gt;Support interface with Micros or Infrasys.&lt;/p&gt;
+		</en>
+		<cns>
+			&lt;h2&gt;产品信息&lt;/h2&gt;
+			&lt;p&gt;&lt;b&gt;iClub&lt;/b&gt;快速有效的会员及会所管理系统，它能管理会员信息、账款、场地设施预定、会所收银、SPA及高尔夫场地等。&lt;/p&gt;
+			&lt;h2&gt;储值卡模块&lt;/h2&gt;
+			&lt;p&gt;Prepaid Card Module 为会员/客人提供储值卡功能。餐饮费可以通过POS接口直接提交。&lt;/p&gt;
+			&lt;h2&gt;POS接口&lt;/h2&gt;
+			&lt;p&gt;支持与Micros或者Infrasys POS做接口。&lt;/p&gt;
+		</cns>
+		<cnt>
+			&lt;h2&gt;產品信息&lt;/h2&gt;
+			&lt;p&gt;&lt;b&gt;iClub&lt;/b&gt;快速有效的會員及會所管理系統，它能管理會員信息、賬款、場地設施預定、會所收銀、SPA及高爾夫場地等。&lt;/p&gt;
+			&lt;h2&gt;儲值卡模塊&lt;/h2&gt;
+			&lt;p&gt;Prepaid Card Module 為會員/客人提供儲值卡功能。餐飲費可以通過POS接口直接提交。&lt;/p&gt;
+			&lt;h2&gt;POS接口&lt;/h2&gt;
+			&lt;p&gt;支持與Micros或者Infrasys POS做接口。&lt;/p&gt;
+		</cnt>
+	</translation>	
+	<translation id="text-TMS">
+		<en>		
+			&lt;h2&gt;Products Information&lt;/h2&gt;
+			&lt;p&gt;&lt;b&gt;iTMS&lt;/b&gt; provides online web based real time restaurant booking, restaurant tables management, guest profile management, marketing management an cloud based multi-properties restaurants management. &lt;/p&gt;
+		</en>
+		<cns>
+			&lt;h2&gt;产品信息&lt;/h2&gt;
+			&lt;p&gt;&lt;b&gt;iTMS&lt;/b&gt;提供多属性餐厅网页在线实时餐厅预定、餐桌管理、客人资料管理、营销管理为基础的云管理。它可以跟踪并存储会员餐厅预定记录及其爱好。&lt;/p&gt;
+		</cns>
+		<cnt>
+			&lt;h2&gt;產品信息&lt;/h2&gt;
+			&lt;p&gt;&lt;b&gt;iTMS&lt;/b&gt;提供多屬性餐廳網頁在線實時餐廳預定、餐桌管理、客人資料管理、營銷管理為基礎的雲管理。它可以跟蹤並存儲會員餐廳預定記錄及其愛好。&lt;/p&gt;
+		</cnt>
+	</translation>	
+	<translation id="text-FR">
+		<en>		
+			&lt;h2&gt;Products Information&lt;/h2&gt;
+			&lt;p&gt;&lt;b&gt;iF&amp;R &lt;/b&gt; Provides online Facilities booking, class booking, schedule management, resource allocation and planning.&lt;/p&gt;
+			&lt;h2&gt;Online Facilities Booking&lt;/h2&gt;
+			&lt;h2&gt;Backend Booking Management&lt;/h2&gt;
+		</en>
+		<cns>
+			&lt;h2&gt;产品信息&lt;/h2&gt;
+			&lt;p&gt;&lt;b&gt;iF&amp;R &lt;/b&gt;提供在线设施预定、班级预定、日程管理、资源分配及规划。&lt;/p&gt;
+			&lt;h2&gt;在线预定设施&lt;/h2&gt;
+			&lt;h2&gt;设施预定及管理&lt;/h2&gt;
+		</cns>
+		<cnt>
+			&lt;h2&gt;產品信息&lt;/h2&gt;
+			&lt;p&gt;&lt;b&gt;iF&amp;R &lt;/b&gt;提供在線設施預定、班級預定、日程管理、資源分配及規劃。&lt;/p&gt;
+			&lt;h2&gt;在線預定設施&lt;/h2&gt;
+			&lt;h2&gt;設施預定及管理&lt;/h2&gt;
+		</cnt>
+	</translation>	
+	<translation id="text-GRM">
+		<en>		
+			&lt;h2&gt;Products integration relation&lt;/h2&gt;
+			&lt;p&gt;&lt;b&gt;iGRM&lt;/b&gt; a generic Guest Relationship Management platform has integrated 5 different way on how you can capture your target customer to analyze each spending behaviors and preferences. &lt;/p&gt;
+			&lt;h2&gt;User friendly, web based ASP access&lt;/h2&gt;
+			&lt;p&gt;No client software installation&lt;/p&gt;
+			&lt;p&gt;User privileges control&lt;/p&gt;
+			&lt;p&gt;Multi-languages support&lt;/p&gt;
+			&lt;p&gt;Secure and reliable&lt;/p&gt;
+			&lt;h2&gt;Loyalty Program&lt;/h2&gt;
+		</en>
+		<cns>
+			&lt;h2&gt;产品整合关系&lt;/h2&gt;
+			&lt;p&gt;&lt;b&gt;iGRM&lt;/b&gt;是一个通用的客户关系管理平台，集成了你如何捕捉到你的目标客户分析每个消费行为及爱好的各种不同的方式。&lt;/p&gt;
+			&lt;h2&gt;用户友好&lt;/h2&gt;
+			&lt;p&gt;基于网页，无需客户端软件安装&lt;/p&gt;
+			&lt;p&gt;用户权限控制&lt;/p&gt;
+			&lt;p&gt;多语言支持&lt;/p&gt;
+			&lt;p&gt;安全、可靠&lt;/p&gt;
+			&lt;h2&gt;忠诚度计划&lt;/h2&gt;
+			&lt;p&gt;在线界面供会员更新资料、积分查询及兑换。&lt;/p&gt;
+		</cns>
+		<cnt>
+			&lt;h2&gt;產品整合關系&lt;/h2&gt;
+			&lt;p&gt;&lt;b&gt;iGRM&lt;/b&gt;是壹個通用的客戶關系管理平臺，集成了妳如何捕捉到妳的目標客戶分析每個消費行為及愛好的各種不同的方式。&lt;/p&gt;
+			&lt;h2&gt;用戶友好&lt;/h2&gt;
+			&lt;p&gt;基於網頁，無需客戶端軟件安裝&lt;/p&gt;
+			&lt;p&gt;用戶權限控制&lt;/p&gt;
+			&lt;p&gt;多語言支持&lt;/p&gt;
+			&lt;p&gt;安全、可靠&lt;/p&gt;
+			&lt;h2&gt;忠誠度計劃&lt;/h2&gt;
+			&lt;p&gt;在線界面供會員更新資料、積分查詢及兌換。&lt;/p&gt;
+		</cnt>
+	</translation>		
+<!--page3/0-->
+	<translation id="title-Contacts">
+		<en>Contacts</en>
+		<cns>联系我们</cns>
+		<cnt>聯系我們</cnt>
+	</translation>
+	<translation id="title-Mail">
+		<en>Mail Address</en>
+		<cns>邮件地址</cns>
+		<cnt>郵件地址</cnt>
+	</translation>
+	<translation id="text-Sales">
+		<en>For Sales inquiry, please contact us at:</en>
+		<cns>购买我们的产品，请发送邮件至：</cns>
+		<cnt>購買我們的產品，請發送郵件至：</cnt>
+	</translation>
+	<translation id="text-Product">
+		<en>For Product and information request, please contact us at:</en>
+		<cns>想了解更多关于产品的信息，请发送邮件至：</cns>
+		<cnt>想了解更多關於產品的信息，請發送郵件至：</cnt>
+	</translation>	
+	<translation id="text-Resume">
+		<en>NGT is always looking for the brightest people to join us, please send your resume to:</en>
+		<cns>NGT永远欢迎更多有能力的人加入我们, 请将您的简历发送至:</cns>
+		<cnt>NGT永遠歡迎更多有能力的人加入我們, 請將您的簡歷發送至:</cnt>
+	</translation>	
+	<translation id="title-Address">
+		<en>Company Address</en>
+		<cns>公司地址</cns>
+		<cnt>公司地址</cnt>
+	</translation>
+	<translation id="btn-Singapore">
+		<en>Singapore</en>
+		<cns>新加坡</cns>
+		<cnt>新加坡</cnt>
+	</translation>
+	<translation id="btn-China">
+		<en>China</en>
+		<cns>中国</cns>
+		<cnt>中國</cnt>
+	</translation>
+	<translation id="btn-HongKong">
+		<en>Hong Kong</en>
+		<cns>香港</cns>
+		<cnt>香港</cnt>
+	</translation>
+	<translation id="btn-SUPPORT">
+		<en>SUPPORT CENTER</en>
+		<cns>技术支持</cns>
+		<cnt>技術支持</cnt>
+	</translation>
+</translations>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

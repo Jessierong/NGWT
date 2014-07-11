@@ -1,0 +1,74 @@
+﻿@charset "utf-8";
+/************************
+   css reset 
+   2013-02-28
+*************************/
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.clearfix:after {
+	content: " ";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+	font-size: 0;
+}
+
+
+a {
+	text-decoration: none;
+}
+
+fieldset, img { border: 0; }
+address, caption, cite, code, dfn, em, th, var {
+	font-style: normal;
+	font-weight: normal;
+}
+ul { list-style: none; }
+ol { list-style-type: decimal; }
+ol ol { list-style: upper-alpha; }
+ol ol ol { list-style: lower-roman; }
+ol ol ol ol { list-style: lower-alpha; }
+ul ul, ol ol, ul ol, ol ul { margin-bottom: 0; }
+caption, th { text-align: left; }
+h1, h2, h3, h4, h5, h6 { font-size: 100%; }
+q:before, q:after { content: ''; }
+table {}
+th, td { vertical-align: top; }
+i {
+	overflow: hidden;
+	display: inline-block;
+}
+iframe { background-color: white; }
+input[type="radio"], input[type="checkbox"] { margin-right: 2px; #margin-right:0;}
+input {
+	-moz-background-clip: border;
+	-moz-background-inline-policy: continuous;
+	-moz-background-origin: padding;
+	outline-color: -moz-use-text-color;
+	outline-style: none;
+	outline-width: medium;
+}
+textarea {
+	overflow: auto;
+}
+
+.f_left{ float:left}
+.f_right{ float:right}
+
+::-webkit-input-placeholder {
+color:    #999;/* WebKit browsers */
+}
+:-moz-placeholder {
+color:    #999;/* Mozilla Firefox 4 to 18 */
+}
+::-moz-placeholder {
+color:    #999;/* Mozilla Firefox 19+ */
+}
+:-ms-input-placeholder {
+color:    #999;/* Internet Explorer 10+ */
+}
